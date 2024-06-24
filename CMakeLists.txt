@@ -3,4 +3,5 @@ project(paradygmaty_programowania)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(paradygmaty_programowania main.cpp)
+add_executable(main.cpp
+        src/pl/haladyj/main.cpp)
